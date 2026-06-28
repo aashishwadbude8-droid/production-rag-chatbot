@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+rank-bm25
+pymupdf
+transformers
+torch
+accelerate
+huggingface-hub
+python-dotenv
+pandas
+numpy
+scikit-learn
+tqdm
