@@ -8,6 +8,7 @@ rank-bm25
 pymupdf
 transformers
 torch
+torchvision
 accelerate
 huggingface-hub
 python-dotenv
@@ -16,4 +17,3 @@ numpy
 scikit-learn
 tqdm
 groq
-torchvisions
