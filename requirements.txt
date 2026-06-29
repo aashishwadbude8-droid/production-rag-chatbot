@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.46.1
 langchain
 langchain-community
 langchain-text-splitters
@@ -16,4 +16,4 @@ numpy
 scikit-learn
 tqdm
 groq
-torchvision
+torchvisions
